@@ -1,2 +1,1 @@
-# MINIMO-Web-Templete
-psd to html one page website design by using html and css( not reponsive)
+https://sazzadsourov.github.io/MINIMO-Web-Templete/
